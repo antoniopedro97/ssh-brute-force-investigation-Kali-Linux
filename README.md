@@ -14,7 +14,7 @@ This project simulates and investigates an SSH brute-force attack in a controlle
 
 ---
 
-## 🛠️Tools Used
+## Tools Used
 - Kali Linux
 - OpenSSH (SSH server)
 - Hydra
